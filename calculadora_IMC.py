@@ -1,21 +1,17 @@
 """
-Primer proyecto de Calculadora de masa corporal
-Siguiendo los pasos del curso de python hecho por el canal de youtube: Lucas Moy.
-https://www.youtube.com/watch?v=swdcD6OPMlk
 
  IMC = Peso / (Altura X Altura)
- < 19: delgadez
- entre 20 y 25: normal
+ < 20: delgadez
+ entre 20 y 30: normal
  > de 30: obesidad 
  
  Adaptado por : Ezequiel Tauil
- https://github.com/ezequielxxx
+ https://github.com/ezeTauil
  
  """
 
- 
 
-print("Calcule su peso")
+print("CALCULADORA IMC version 1.0")
 
 def calcularIMC(peso,altura):
     imc = peso/(altura * altura)
