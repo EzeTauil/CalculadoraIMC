@@ -1,5 +1,5 @@
 # **CALCULADORA IMC**
-## _Calculadora de masa corporal version 1.0_
+## _Calculadora de masa corporal (versión 1.0)_
 
 Éste es un proyecto realizado en un curso de Python el cual calcula la masa corporal de una persona.
 
